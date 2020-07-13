@@ -1,0 +1,13 @@
+@@Hay cho biet hinh nay trong tieng anh la gi ?
+--https://hinhanhdephd.com/wp-content/uploads/2016/03/hinh-anh-meo-con-de-thuong-nhat-1.jpg
+$$a.con meo
+$$b.con chuot
+$$c.con tho
+%%
+
+@@Hay cho biet hinh nay trong tieng viet la gi ?
+--https://hinhanhdephd.com/wp-content/uploads/2016/03/hinh-anh-meo-con-de-thuong-nhat-1.jpg
+$$a.con cho
+$$b.con voi
+$$c.con ho
+%%

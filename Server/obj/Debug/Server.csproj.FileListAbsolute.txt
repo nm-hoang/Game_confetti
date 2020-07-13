@@ -1,0 +1,63 @@
+C:\Users\Focus\Desktop\DACK_LTW\Server\bin\Debug\Server.exe.config
+C:\Users\Focus\Desktop\DACK_LTW\Server\bin\Debug\Server.exe
+C:\Users\Focus\Desktop\DACK_LTW\Server\bin\Debug\Server.pdb
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.Server.resources
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.exe
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.pdb
+C:\Users\Focus\Desktop\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\bin\Debug\Server.exe.config
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\bin\Debug\Server.exe
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\bin\Debug\Server.pdb
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.Server.resources
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.exe
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Server\obj\Debug\Server.pdb
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.Server.resources
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.exe
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\obj\Debug\Server.pdb
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\bin\Debug\Server.exe.config
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\bin\Debug\Server.exe
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Server\bin\Debug\Server.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\bin\Debug\Server.exe.config
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\bin\Debug\Server.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\bin\Debug\Server.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.Server.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\bin\Debug\Server.exe.config
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\bin\Debug\Server.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\bin\Debug\Server.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.Server.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\bin\Debug\Server.exe.config
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.exe
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.pdb
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\bin\Debug\Server.exe
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\bin\Debug\Server.pdb
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.Server.resources
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\for learn\Projects\Game_confetti-LTW-master\Server\bin\Debug\Server.exe.config
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.exe
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.pdb
+D:\for learn\Projects\Game_confetti-LTW-master\Server\bin\Debug\Server.exe
+D:\for learn\Projects\Game_confetti-LTW-master\Server\bin\Debug\Server.pdb
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.Server.resources
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.Properties.Resources.resources
+D:\for learn\Projects\Game_confetti-LTW-master\Server\obj\Debug\Server.csproj.GenerateResource.Cache

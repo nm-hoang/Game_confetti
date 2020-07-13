@@ -1,0 +1,69 @@
+@@what this animal is in English?
+--https://hinhanhdephd.com/wp-content/uploads/2016/03/hinh-anh-meo-con-de-thuong-nhat-1.jpg
+$$A.Cat
+$$B.Tom
+$$C.Rabbit
+%%A
+
+@@What's the name of movie in this picture?
+--https://2sao.vietnamnetjsc.vn/images/2019/05/01/07/15/Avengers-Endgame-01.jpeg
+$$A.Avengers
+$$B.Anime
+$$C.Tom and jerry
+%%A
+
+@@What's his name?
+--https://2sao.vietnamnetjsc.vn/images/2019/05/01/07/15/Avengers-Endgame-01.jpeg
+$$A.Tony Stark
+$$B.Peter Parker
+$$C.Thanos
+%%C
+
+@@Who directed 'The Avengers'?
+--https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg
+$$A.JAMES GUNN
+$$B.JOSS WHEDON
+$$C.DAVID S. GOYER
+%%B
+
+@@What's the movie name on the picture? 
+--https://m.media-amazon.com/images/M/MV5BMGIzZmQ4YmUtZGQ4NC00OTkyLWE1MGUtMTQ3N2Y3N2E2NWEyXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg
+$$A.Star vs the forces of Evil
+$$B.Doreamon
+$$C.Gravity Falls
+%%B
+
+@@Do not mistake my appetite for apathy!
+--http://www4.pictures.zimbio.com/mp/7b-arEci2usl.jpg
+$$A.Loki
+$$B.Black Widow
+$$C.Thor
+%%A
+
+@@Name the actress who plays Maria Hill?
+--http://www1.pictures.zimbio.com/mp/IwaktGtwILjl.jpg
+$$A.Hayley Atwell
+$$B.Cobie Smulders 
+$$C.Emily VanCamp
+%%B
+
+@@Who expects to cast a spell against Son Tinh?
+--https://photo-2-baomoi.zadn.vn/w700_r1/2018_09_17_287_27757435/c84f7987afc1469f1fd0.jpg
+$$A.Oread
+$$B.Glass
+$$C.Hung King
+%%B
+
+@@Which actor voices Thanos?
+--http://www4.pictures.zimbio.com/mp/brJIMENC0j2l.jpg
+$$A.Javier Bardem 
+$$B.Josh Brolin
+$$C.Benicio del Toro
+%%B
+
+@@Name these aliens?
+--http://www1.pictures.zimbio.com/mp/DsqWO5pq81Jl.jpg
+$$A.Sakaaran
+$$B.Xandarians
+$$C.Chitauri
+%%C

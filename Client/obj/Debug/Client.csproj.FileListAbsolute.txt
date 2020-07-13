@@ -1,0 +1,70 @@
+C:\Users\Focus\Desktop\DACK_LTW\Client\bin\Debug\Client.exe.config
+C:\Users\Focus\Desktop\DACK_LTW\Client\bin\Debug\Client.exe
+C:\Users\Focus\Desktop\DACK_LTW\Client\bin\Debug\Client.pdb
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.Client.resources
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.exe
+C:\Users\Focus\Desktop\DACK_LTW\Client\obj\Debug\Client.pdb
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\bin\Debug\Client.exe.config
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.exe
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.pdb
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\bin\Debug\Client.exe
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\bin\Debug\Client.pdb
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.Client.resources
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+D:\for learn\WinformProgramming\New folder\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\bin\Debug\Client.exe.config
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.exe
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.pdb
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\bin\Debug\Client.exe
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\bin\Debug\Client.pdb
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.Client.resources
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+D:\for learn\WinformProgramming\ver5\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.Client.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\bin\Debug\Client.exe.config
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\bin\Debug\Client.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\bin\Debug\Client.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW\Client\obj\Debug\Client.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\bin\Debug\Client.exe.config
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\bin\Debug\Client.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\bin\Debug\Client.pdb
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.Client.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.exe
+D:\for learn\WinformProgramming\Confetti_ver11\DACK_LTW_ver13\DACK_LTW\Client\obj\Debug\Client.pdb
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\bin\Debug\Client.exe.config
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\bin\Debug\Client.exe
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\bin\Debug\Client.pdb
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.Client.resources
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.frmLogin.resources
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.exe
+C:\Users\Focus\OneDrive - VNU-HCMUS\HK2 2018-2019\Lập trình Windows\Lý thuyết\DACK_Confetti\ver cuối\DACK_LTW\Client\obj\Debug\Client.pdb
+D:\for learn\Projects\Game_confetti-LTW-master\Client\bin\Debug\Client.exe.config
+D:\for learn\Projects\Game_confetti-LTW-master\Client\bin\Debug\Client.exe
+D:\for learn\Projects\Game_confetti-LTW-master\Client\bin\Debug\Client.pdb
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.Client.resources
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.frmLogin.resources
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.Properties.Resources.resources
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.exe
+D:\for learn\Projects\Game_confetti-LTW-master\Client\obj\Debug\Client.pdb
